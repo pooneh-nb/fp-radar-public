@@ -1,0 +1,14 @@
+{
+    "CSS_Object_Model": 1,
+    "Pointer_events": 3,
+    "Canvas_API": 2,
+    "HTMLElement": 4,
+    "Document_Object_Model": 6,
+    "IndexedDB_API": 2,
+    "EventsListeners": 2,
+    "Navigator": 1,
+    "Touch_events": 2,
+    "unknown_api": 2,
+    "Web_Audio_API": 2,
+    "File_and_Directory_Entries_API": 1
+}

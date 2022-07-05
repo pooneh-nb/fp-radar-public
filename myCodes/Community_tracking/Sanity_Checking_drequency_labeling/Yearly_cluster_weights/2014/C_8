@@ -1,0 +1,14 @@
+{
+    "Sensors": 2,
+    "IndexedDB_API": 1,
+    "Payment_Request_API": 3,
+    "Web_Animations_API": 1,
+    "WebVTT_API": 1,
+    "ms": 1,
+    "Storage_API": 1,
+    "CSS_Object_Model": 2,
+    "unknown_api": 1,
+    "Performance": 1,
+    "HTMLElement": 1,
+    "Channel_Messaging_API": 3
+}

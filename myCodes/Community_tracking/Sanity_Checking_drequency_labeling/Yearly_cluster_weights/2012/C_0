@@ -1,0 +1,21 @@
+{
+    "HTMLElement": 5,
+    "IndexedDB_API": 2,
+    "unknown_api": 3,
+    "Payment_Request_API": 3,
+    "Web_Audio_API": 1,
+    "Sensors": 1,
+    "CSS_Object_Model": 3,
+    "Long_Tasks_API": 1,
+    "Geolocation_API": 3,
+    "WebVTT_API": 2,
+    "Document_Object_Model": 2,
+    "WebRTC": 1,
+    "Battery_Status_API": 1,
+    "Clipboard_API": 1,
+    "WebVR_API": 1,
+    "WebGL_API": 2,
+    "File_and_Directory_Entries_API": 1,
+    "EventsListeners": 1,
+    "DOMInteraction": 2
+}

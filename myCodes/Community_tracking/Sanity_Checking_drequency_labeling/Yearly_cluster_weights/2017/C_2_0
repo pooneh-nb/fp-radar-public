@@ -1,0 +1,17 @@
+{
+    "WebRTC_API": 1,
+    "HTMLElement": 8,
+    "Sensors": 1,
+    "Intersection_Observer_API": 1,
+    "Document_Object_Model": 17,
+    "DOMInteraction": 10,
+    "Payment_Request_API": 2,
+    "Media_Capabilities_API": 1,
+    "File_and_Directory_Entries_API": 1,
+    "CSS_Object_Model": 7,
+    "Keyboard": 1,
+    "unknown_api": 2,
+    "EventsListeners": 2,
+    "IndexedDB_API": 1,
+    "Web_Speech_API": 1
+}

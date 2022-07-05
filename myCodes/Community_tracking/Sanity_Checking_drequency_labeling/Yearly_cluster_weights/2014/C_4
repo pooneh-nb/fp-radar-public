@@ -1,0 +1,17 @@
+{
+    "Document_Object_Model": 4,
+    "Payment_Request_API": 3,
+    "CSS_Object_Model": 1,
+    "Keyboard": 1,
+    "Web_Bluetooth_API": 1,
+    "Web_Animations_API": 1,
+    "ms": 1,
+    "IndexedDB_API": 2,
+    "Web_Speech_API": 1,
+    "Page_Visibility_API": 1,
+    "HTMLElement": 2,
+    "Payment": 1,
+    "Media_Source_Extensions_API": 1,
+    "EventsListeners": 1,
+    "WebRTC_API": 1
+}

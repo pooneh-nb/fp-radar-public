@@ -1,0 +1,19 @@
+{
+    "WebVTT_API": 1,
+    "Payment_Request_API": 2,
+    "IndexedDB_API": 2,
+    "Gamepad_API": 1,
+    "MediaStream_Image_Capture_API": 1,
+    "Geolocation_API": 2,
+    "File_and_Directory_Entries_API": 3,
+    "Web_Audio_API": 2,
+    "HTMLElement": 2,
+    "Web_Speech_API": 1,
+    "EventsListeners": 3,
+    "Document_Object_Model": 1,
+    "WebRTC": 1,
+    "Long_Tasks_API": 1,
+    "Sensors": 1,
+    "unknown_api": 1,
+    "Web_MIDI_API": 1
+}

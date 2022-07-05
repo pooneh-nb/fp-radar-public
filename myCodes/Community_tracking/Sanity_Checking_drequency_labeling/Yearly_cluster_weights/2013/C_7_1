@@ -1,0 +1,11 @@
+{
+    "WebVTT_API": 1,
+    "WebRTC": 1,
+    "Media_Capabilities_API": 2,
+    "Payment_Request_API": 1,
+    "Web_Animations_API": 1,
+    "Web_MIDI_API": 1,
+    "Document_Object_Model": 1,
+    "CSS_Object_Model": 2,
+    "HTMLElement": 2
+}

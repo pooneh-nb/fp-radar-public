@@ -1,0 +1,16 @@
+{
+    "WebGL_API": 1,
+    "DOMInteraction": 2,
+    "File_and_Directory_Entries_API": 1,
+    "IndexedDB_API": 3,
+    "Crypto": 1,
+    "Media_Capabilities_API": 1,
+    "HTMLElement": 2,
+    "Web_Audio_API": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "unknown_api": 1,
+    "EventsListeners": 1,
+    "Navigator": 1,
+    "Keyboard": 1,
+    "Long_Tasks_API": 1
+}

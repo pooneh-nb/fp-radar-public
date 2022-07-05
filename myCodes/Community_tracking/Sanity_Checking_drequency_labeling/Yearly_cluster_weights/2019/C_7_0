@@ -1,0 +1,12 @@
+{
+    "File_and_Directory_Entries_API": 2,
+    "CSS_Object_Model": 12,
+    "Document_Object_Model": 38,
+    "EventsListeners": 2,
+    "Encrypted_Media_Extensions_API": 1,
+    "Presentation_API": 1,
+    "Payment_Request_API": 1,
+    "Visual_Viewport_API": 2,
+    "Streams_API": 1,
+    "WebXR": 1
+}

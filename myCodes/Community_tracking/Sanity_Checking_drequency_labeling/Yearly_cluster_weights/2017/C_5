@@ -1,0 +1,16 @@
+{
+    "IndexedDB_API": 2,
+    "HTMLElement": 3,
+    "unknown_api": 1,
+    "EventsListeners": 2,
+    "CSS_Object_Model": 1,
+    "Document_Object_Model": 2,
+    "MediaStream_Image_Capture_API": 1,
+    "Web_Speech_API": 1,
+    "Payment_Request_API": 2,
+    "ElementInternals": 1,
+    "File_and_Directory_Entries_API": 2,
+    "Resize_Observer_API": 1,
+    "Service_Worker_API": 1,
+    "WebGL_API": 1
+}

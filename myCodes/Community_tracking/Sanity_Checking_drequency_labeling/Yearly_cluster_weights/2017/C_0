@@ -1,0 +1,11 @@
+{
+    "WebVTT_API": 2,
+    "Payment_Request_API": 1,
+    "Web_Bluetooth_API": 1,
+    "Long_Tasks_API": 1,
+    "Crypto": 1,
+    "HTMLElement": 3,
+    "Web_Audio_API": 1,
+    "Performance": 1,
+    "WebRTC": 1
+}

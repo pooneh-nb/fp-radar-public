@@ -1,0 +1,19 @@
+{
+    "Gamepad_API": 1,
+    "CSS_Object_Model": 4,
+    "Sensors": 2,
+    "Payment_Request_API": 1,
+    "Document_Object_Model": 7,
+    "Web_Speech_API": 1,
+    "ms": 2,
+    "XMLHttpRequest": 1,
+    "IndexedDB_API": 1,
+    "WebVTT_API": 1,
+    "HTMLElement": 6,
+    "URL_API": 1,
+    "File_and_Directory_Entries_API": 1,
+    "Web_Audio_API": 2,
+    "DOMInteraction": 1,
+    "Intersection_Observer_API": 1,
+    "Web_Animations_API": 1
+}

@@ -1,0 +1,15 @@
+{
+    "HTMLElement": 2,
+    "Payment_Request_API": 2,
+    "CSS_Object_Model": 1,
+    "IndexedDB_API": 1,
+    "Geolocation_API": 3,
+    "Web_Audio_API": 1,
+    "WebVTT_API": 1,
+    "Payment": 1,
+    "Web_Speech_API": 1,
+    "Long_Tasks_API": 1,
+    "Push_API": 1,
+    "WebRTC": 1,
+    "Document_Object_Model": 1
+}

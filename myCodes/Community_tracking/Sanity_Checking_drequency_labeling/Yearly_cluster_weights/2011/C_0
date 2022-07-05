@@ -1,0 +1,8 @@
+{
+    "Web_Speech_API": 1,
+    "unknown_api": 1,
+    "Streams_API": 1,
+    "IndexedDB_API": 1,
+    "HTMLElement": 2,
+    "CSS_Object_Model": 4
+}

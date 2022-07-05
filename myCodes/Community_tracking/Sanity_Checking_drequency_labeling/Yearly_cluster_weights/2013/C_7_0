@@ -1,0 +1,15 @@
+{
+    "Document_Object_Model": 3,
+    "WebRTC_API": 1,
+    "HTMLElement": 5,
+    "Crypto": 1,
+    "Web_Crypto_API": 2,
+    "Web_Audio_API": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "Navigator": 2,
+    "File_and_Directory_Entries_API": 1,
+    "Keyboard": 1,
+    "WebGL_API": 1,
+    "CSS_Object_Model": 2,
+    "WebRTC": 1
+}

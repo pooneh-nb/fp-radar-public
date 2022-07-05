@@ -1,0 +1,17 @@
+{
+    "IndexedDB_API": 2,
+    "URL_API": 1,
+    "Payment_Request_API": 1,
+    "Web_Audio_API": 2,
+    "File_and_Directory_Entries_API": 4,
+    "Geolocation_API": 2,
+    "Gamepad_API": 1,
+    "HTMLElement": 3,
+    "Web_Speech_API": 1,
+    "MediaStream_Image_Capture_API": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "EventsListeners": 4,
+    "Document_Object_Model": 1,
+    "unknown_api": 2,
+    "WebVR_API": 1
+}

@@ -1,0 +1,23 @@
+{
+    "Web_Speech_API": 2,
+    "URL_API": 1,
+    "Storage_API": 1,
+    "EventsListeners": 4,
+    "Web_Authentication_API": 1,
+    "HTMLElement": 5,
+    "Payment_Request_API": 7,
+    "Encrypted_Media_Extensions_API": 2,
+    "unknown_api": 2,
+    "USB": 1,
+    "Payment": 2,
+    "Document_Object_Model": 1,
+    "IndexedDB_API": 4,
+    "CSS_Object_Model": 1,
+    "WebGL_API": 1,
+    "Credential_Management_API": 1,
+    "Media_Capabilities_API": 1,
+    "Web_Bluetooth_API": 1,
+    "Long_Tasks_API": 3,
+    "Network_Information_API": 1,
+    "ms": 1
+}

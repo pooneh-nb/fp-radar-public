@@ -1,0 +1,18 @@
+{
+    "Document_Object_Model": 6,
+    "Sensors": 2,
+    "HTMLElement": 7,
+    "DOMInteraction": 1,
+    "Web_Animations_API": 1,
+    "Web_Audio_API": 3,
+    "ms": 1,
+    "Storage_API": 1,
+    "File_and_Directory_Entries_API": 5,
+    "IndexedDB_API": 2,
+    "EventsListeners": 3,
+    "XMLHttpRequest": 2,
+    "CSS_Object_Model": 2,
+    "CSS": 1,
+    "Geolocation_API": 1,
+    "Touch_events": 2
+}

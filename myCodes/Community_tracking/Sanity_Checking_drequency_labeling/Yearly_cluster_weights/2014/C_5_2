@@ -1,0 +1,13 @@
+{
+    "DOMInteraction": 1,
+    "Document_Object_Model": 14,
+    "unknown_api": 1,
+    "Web_Audio_API": 2,
+    "CSS_Object_Model": 3,
+    "HTMLElement": 2,
+    "Web_Animations_API": 1,
+    "WebVTT_API": 1,
+    "EventsListeners": 2,
+    "Canvas_API": 1,
+    "IndexedDB_API": 1
+}

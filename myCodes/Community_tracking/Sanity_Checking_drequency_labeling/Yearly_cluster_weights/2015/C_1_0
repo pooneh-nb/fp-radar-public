@@ -1,0 +1,19 @@
+{
+    "Geolocation_API": 1,
+    "IndexedDB_API": 11,
+    "Encrypted_Media_Extensions_API": 2,
+    "Web_Audio_API": 1,
+    "Document_Object_Model": 2,
+    "EventsListeners": 2,
+    "Battery_Status_API": 3,
+    "WebGL_API": 13,
+    "WebVR_API": 1,
+    "CSS_Object_Model": 1,
+    "HTMLElement": 4,
+    "Storage_API": 1,
+    "Presentation_API": 1,
+    "Web_Bluetooth_API": 1,
+    "Touch_events": 1,
+    "File_and_Directory_Entries_API": 1,
+    "Navigator": 2
+}

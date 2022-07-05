@@ -1,0 +1,16 @@
+{
+    "Media_Source_Extensions_API": 2,
+    "WebRTC_API": 6,
+    "Web_Audio_API": 3,
+    "HTMLElement": 2,
+    "File_and_Directory_Entries_API": 3,
+    "EventsListeners": 1,
+    "WebGL_API": 1,
+    "Streams_API": 1,
+    "unknown_api": 1,
+    "Web_Workers_API": 4,
+    "WebRTC": 2,
+    "Crypto": 1,
+    "Background_Tasks_API": 1,
+    "WebSockets_API": 1
+}

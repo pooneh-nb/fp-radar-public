@@ -1,0 +1,19 @@
+{
+    "CSS_Object_Model": 1,
+    "URL_API": 4,
+    "HTMLElement": 7,
+    "unknown_api": 1,
+    "WebRTC_API": 1,
+    "Payment_Request_API": 2,
+    "USB": 1,
+    "Sensors": 5,
+    "Touch_events": 1,
+    "EventsListeners": 4,
+    "Document_Object_Model": 1,
+    "Channel_Messaging_API": 1,
+    "DOMInteraction": 3,
+    "IndexedDB_API": 2,
+    "File_and_Directory_Entries_API": 1,
+    "WebGL_API": 1,
+    "Web_Audio_API": 1
+}

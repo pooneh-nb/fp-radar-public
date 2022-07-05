@@ -1,0 +1,20 @@
+{
+    "CSS_Object_Model": 1,
+    "HTMLElement": 3,
+    "Sensors": 1,
+    "DOMInteraction": 20,
+    "Web_Crypto_API": 1,
+    "Document_Object_Model": 3,
+    "WebVTT_API": 1,
+    "Payment_Request_API": 2,
+    "Web_Audio_API": 1,
+    "Push_API": 5,
+    "Encrypted_Media_Extensions_API": 2,
+    "Service_Worker_API": 4,
+    "EventsListeners": 2,
+    "File_and_Directory_Entries_API": 2,
+    "IndexedDB_API": 10,
+    "Geolocation_API": 1,
+    "WebRTC_API": 1,
+    "unknown_api": 2
+}

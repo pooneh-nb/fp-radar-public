@@ -1,0 +1,22 @@
+{
+    "CSS_Object_Model": 3,
+    "HTMLElement": 7,
+    "Credential_Management_API": 1,
+    "Document_Object_Model": 2,
+    "ms": 1,
+    "WebRTC": 3,
+    "Payment": 1,
+    "Payment_Request_API": 3,
+    "IndexedDB_API": 3,
+    "Web_Audio_API": 2,
+    "Web_Speech_API": 2,
+    "Geolocation_API": 1,
+    "Mouse": 3,
+    "File_and_Directory_Entries_API": 1,
+    "Push_API": 1,
+    "WebGL_API": 1,
+    "EventsListeners": 1,
+    "Keyboard": 1,
+    "unknown_api": 1,
+    "CSS": 1
+}

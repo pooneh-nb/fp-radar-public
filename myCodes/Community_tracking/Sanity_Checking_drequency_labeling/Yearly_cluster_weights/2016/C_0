@@ -1,0 +1,9 @@
+{
+    "CSS_Object_Model": 2,
+    "HTMLElement": 3,
+    "IndexedDB_API": 1,
+    "File_and_Directory_Entries_API": 1,
+    "Long_Tasks_API": 1,
+    "Credential_Management_API": 1,
+    "ms": 2
+}

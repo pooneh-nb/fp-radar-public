@@ -1,0 +1,16 @@
+{
+    "Credential_Management_API": 2,
+    "CSS_Object_Model": 4,
+    "URL_API": 1,
+    "unknown_api": 1,
+    "WebRTC": 2,
+    "HTMLElement": 4,
+    "Battery_Status_API": 1,
+    "Sensors": 1,
+    "WebVTT_API": 1,
+    "Document_Object_Model": 1,
+    "Media_Capabilities_API": 1,
+    "Web_Audio_API": 1,
+    "Payment_Request_API": 1,
+    "Navigator": 1
+}

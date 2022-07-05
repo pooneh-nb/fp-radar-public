@@ -1,0 +1,23 @@
+{
+    "Payment_Request_API": 2,
+    "Document_Object_Model": 12,
+    "XMLHttpRequest": 3,
+    "USB": 1,
+    "Sensors": 1,
+    "IndexedDB_API": 1,
+    "Web_Animations_API": 1,
+    "DOMInteraction": 1,
+    "Touch_events": 1,
+    "HTMLElement": 11,
+    "CSS_Object_Model": 3,
+    "Crypto": 2,
+    "Navigator": 1,
+    "URL_API": 4,
+    "WebRTC_API": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "Channel_Messaging_API": 1,
+    "Service_Worker_API": 1,
+    "Page_Visibility_API": 1,
+    "Web_Audio_API": 1,
+    "Web_Crypto_API": 1
+}

@@ -1,0 +1,10 @@
+{
+    "Web_Speech_API": 1,
+    "ms": 1,
+    "Web_Animations_API": 2,
+    "unknown_api": 1,
+    "HTMLElement": 1,
+    "CSS_Object_Model": 4,
+    "Document_Object_Model": 3,
+    "Web_Audio_API": 3
+}

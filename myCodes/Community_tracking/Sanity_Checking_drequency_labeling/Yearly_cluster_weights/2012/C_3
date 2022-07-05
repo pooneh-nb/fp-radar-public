@@ -1,0 +1,14 @@
+{
+    "Web_Audio_API": 2,
+    "Gamepad_API": 1,
+    "MediaStream_Image_Capture_API": 1,
+    "CSS_Object_Model": 3,
+    "WebVTT_API": 1,
+    "EventsListeners": 3,
+    "File_and_Directory_Entries_API": 1,
+    "Web_Speech_API": 1,
+    "IndexedDB_API": 1,
+    "Document_Object_Model": 1,
+    "Long_Tasks_API": 1,
+    "HTMLElement": 1
+}

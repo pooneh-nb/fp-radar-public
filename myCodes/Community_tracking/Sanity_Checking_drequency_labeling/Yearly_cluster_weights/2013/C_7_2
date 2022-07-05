@@ -1,0 +1,19 @@
+{
+    "Streams_API": 1,
+    "Web_Audio_API": 2,
+    "File_and_Directory_Entries_API": 1,
+    "XMLHttpRequest": 1,
+    "ms": 2,
+    "Stream": 4,
+    "CSS_Object_Model": 1,
+    "HTMLElement": 4,
+    "IndexedDB_API": 2,
+    "unknown_api": 3,
+    "Document_Object_Model": 1,
+    "Crypto": 1,
+    "Service_Worker_API": 1,
+    "Long_Tasks_API": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "Payment_Request_API": 1,
+    "Web_Authentication_API": 1
+}

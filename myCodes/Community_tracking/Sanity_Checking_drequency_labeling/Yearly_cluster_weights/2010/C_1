@@ -1,0 +1,9 @@
+{
+    "unknown_api": 1,
+    "WebGL_API": 1,
+    "Web_Speech_API": 1,
+    "File_and_Directory_Entries_API": 1,
+    "HTMLElement": 2,
+    "CSS_Object_Model": 1,
+    "Payment_Request_API": 1
+}

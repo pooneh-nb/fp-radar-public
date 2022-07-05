@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+<meta charset="utf-8" />
+<script>var childwin;
+const childname = "popup";
+function openChild() {childwin = window.open('index2.html', childname, 'height=300px, width=500px');
+  
+}
+
+function sendMessage(){
+    let msg={pName : "Bob", pAge: "35"};
+    // In production, DO NOT use '*', use toe target domain
+    childwin.postMessage(msg,'*')// childwin is the targetWindow
+    childwin.focus();
+}
+
+</script>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <input type='button' id='btnopen' value='Open child' onclick='openChild();' />
+            <input type='button' id='btnSendMsg' value='Send Message' onclick='sendMessage();' />
+        </fieldset>
+    </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+    "Battery_Status_API": 1,
+    "Gamepad_API": 1,
+    "CSS_Object_Model": 2,
+    "unknown_api": 1,
+    "IndexedDB_API": 10,
+    "WebRTC_API": 2,
+    "Touch_events": 1,
+    "Web_Audio_API": 5,
+    "HTMLElement": 2,
+    "Network_Information_API": 1,
+    "Web_Workers_API": 1,
+    "ms": 2,
+    "URL_API": 1,
+    "File_and_Directory_Entries_API": 1
+}

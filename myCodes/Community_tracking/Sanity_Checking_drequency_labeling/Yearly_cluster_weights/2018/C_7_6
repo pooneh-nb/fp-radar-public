@@ -1,0 +1,18 @@
+{
+    "HTMLElement": 3,
+    "Long_Tasks_API": 4,
+    "Performance": 2,
+    "Web_Audio_API": 1,
+    "Background_Tasks_API": 1,
+    "Crypto": 1,
+    "WebRTC": 3,
+    "Payment_Request_API": 1,
+    "Web_Bluetooth_API": 1,
+    "WebVTT_API": 2,
+    "Document_Object_Model": 2,
+    "Storage_API": 1,
+    "ms": 1,
+    "Network_Information_API": 1,
+    "Sensor_APIs": 1,
+    "Navigator": 1
+}

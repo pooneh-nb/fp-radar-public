@@ -1,0 +1,22 @@
+{
+    "unknown_api": 5,
+    "HTMLElement": 64,
+    "Payment_Request_API": 2,
+    "Intersection_Observer_API": 5,
+    "Document_Object_Model": 15,
+    "Sensors": 2,
+    "Web_Storage_API": 1,
+    "URL_API": 1,
+    "ElementInternals": 1,
+    "Web_Audio_API": 1,
+    "CSS_Object_Model": 4,
+    "EventsListeners": 6,
+    "Streams_API": 1,
+    "File_and_Directory_Entries_API": 5,
+    "WebGL_API": 2,
+    "Web_Workers_API": 1,
+    "Geolocation_API": 1,
+    "DOMInteraction": 1,
+    "WebVR_API": 1,
+    "Keyboard": 2
+}

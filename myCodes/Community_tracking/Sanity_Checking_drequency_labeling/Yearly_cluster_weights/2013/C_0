@@ -1,0 +1,21 @@
+{
+    "Document_Object_Model": 4,
+    "CSS_Object_Model": 3,
+    "Credential_Management_API": 1,
+    "IndexedDB_API": 3,
+    "HTMLElement": 8,
+    "Payment_Request_API": 5,
+    "Sensors": 1,
+    "Web_Audio_API": 2,
+    "Crypto": 1,
+    "Encrypted_Media_Extensions_API": 1,
+    "unknown_api": 1,
+    "Payment": 1,
+    "WebGL_API": 1,
+    "File_and_Directory_Entries_API": 2,
+    "Media_Source_Extensions_API": 1,
+    "Web_Speech_API": 1,
+    "Streams_API": 1,
+    "WebRTC": 1,
+    "Mouse": 3
+}

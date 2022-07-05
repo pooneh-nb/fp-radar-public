@@ -1,0 +1,11 @@
+{
+    "Payment_Request_API": 1,
+    "USB": 1,
+    "URL_API": 4,
+    "HTMLElement": 7,
+    "Web_Workers_API": 1,
+    "IndexedDB_API": 1,
+    "Streams_API": 1,
+    "WebVTT_API": 1,
+    "MediaStream_Image_Capture_API": 1
+}

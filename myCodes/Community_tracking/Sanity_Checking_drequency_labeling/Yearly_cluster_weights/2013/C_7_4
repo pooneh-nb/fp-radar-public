@@ -1,0 +1,11 @@
+{
+    "unknown_api": 1,
+    "HTMLElement": 2,
+    "Document_Object_Model": 1,
+    "WebRTC_API": 1,
+    "Web_Speech_API": 1,
+    "IndexedDB_API": 1,
+    "Credential_Management_API": 1,
+    "Storage_API": 1,
+    "Navigator": 1
+}

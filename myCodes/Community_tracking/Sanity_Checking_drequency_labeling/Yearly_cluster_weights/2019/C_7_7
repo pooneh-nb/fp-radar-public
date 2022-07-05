@@ -1,0 +1,12 @@
+{
+    "Web_Speech_API": 2,
+    "WebRTC_API": 1,
+    "File_and_Directory_Entries_API": 2,
+    "IndexedDB_API": 2,
+    "Web_Audio_API": 2,
+    "Document_Object_Model": 3,
+    "Gamepad_API": 1,
+    "EventsListeners": 3,
+    "WebVTT_API": 1,
+    "Canvas_API": 1
+}

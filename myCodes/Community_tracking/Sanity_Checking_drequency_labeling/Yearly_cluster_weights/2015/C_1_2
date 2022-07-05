@@ -1,0 +1,15 @@
+{
+    "Sensors": 1,
+    "WebRTC": 1,
+    "Web_Authentication_API": 1,
+    "WebVTT_API": 1,
+    "EventsListeners": 1,
+    "ms": 1,
+    "Payment_Request_API": 1,
+    "DOMInteraction": 1,
+    "IndexedDB_API": 2,
+    "Credential_Management_API": 1,
+    "Network_Information_API": 1,
+    "Storage_API": 1,
+    "Media_Source_Extensions_API": 1
+}

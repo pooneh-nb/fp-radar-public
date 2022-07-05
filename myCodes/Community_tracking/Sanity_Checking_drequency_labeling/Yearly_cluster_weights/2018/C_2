@@ -1,0 +1,18 @@
+{
+    "CSS_Object_Model": 5,
+    "Credential_Management_API": 1,
+    "WebRTC": 1,
+    "Document_Object_Model": 3,
+    "Web_Audio_API": 1,
+    "Media_Capabilities_API": 1,
+    "unknown_api": 2,
+    "Payment_Request_API": 5,
+    "Streams_API": 1,
+    "Storage_API": 1,
+    "File_and_Directory_Entries_API": 1,
+    "HTMLElement": 4,
+    "EventsListeners": 1,
+    "DOMInteraction": 1,
+    "Service_Worker_API": 1,
+    "Geolocation_API": 2
+}

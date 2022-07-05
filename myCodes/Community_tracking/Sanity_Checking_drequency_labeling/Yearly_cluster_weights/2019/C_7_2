@@ -1,0 +1,21 @@
+{
+    "Document_Object_Model": 3,
+    "ms": 1,
+    "Credential_Management_API": 1,
+    "Web_Animations_API": 1,
+    "Keyboard": 1,
+    "Pointer_events": 3,
+    "MediaStream_Image_Capture_API": 1,
+    "Web_Audio_API": 3,
+    "Touch_events": 2,
+    "Encrypted_Media_Extensions_API": 5,
+    "Geolocation_API": 1,
+    "HTMLElement": 2,
+    "unknown_api": 2,
+    "Crypto": 1,
+    "Intersection_Observer_API": 3,
+    "Sensors": 1,
+    "WebVTT_API": 1,
+    "Payment_Request_API": 1,
+    "Mouse": 1
+}

@@ -1,0 +1,19 @@
+{
+    "XMLHttpRequest": 1,
+    "Intersection_Observer_API": 1,
+    "Document_Object_Model": 14,
+    "unknown_api": 3,
+    "HTMLElement": 6,
+    "Sensors": 1,
+    "CSS_Object_Model": 7,
+    "Media_Capabilities_API": 1,
+    "WebRTC_API": 1,
+    "EventsListeners": 1,
+    "IndexedDB_API": 4,
+    "MediaStream_Image_Capture_API": 2,
+    "File_and_Directory_Entries_API": 1,
+    "WebRTC": 5,
+    "DOMInteraction": 9,
+    "Payment_Request_API": 3,
+    "Network_Information_API": 1
+}

@@ -1,0 +1,18 @@
+{
+    "CSS_Object_Model": 1,
+    "Credential_Management_API": 1,
+    "Web_Audio_API": 1,
+    "Payment_Request_API": 5,
+    "Media_Capabilities_API": 1,
+    "unknown_api": 1,
+    "HTMLElement": 1,
+    "WebVR_API": 1,
+    "Storage_API": 1,
+    "Web_Speech_API": 3,
+    "USB": 1,
+    "Service_Worker_API": 1,
+    "Document_Object_Model": 2,
+    "Presentation_API": 1,
+    "IndexedDB_API": 2,
+    "Web_Bluetooth_API": 2
+}

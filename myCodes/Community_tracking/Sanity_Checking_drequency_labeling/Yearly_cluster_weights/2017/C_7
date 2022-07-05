@@ -1,0 +1,8 @@
+{
+    "XMLHttpRequest": 1,
+    "CSS_Object_Model": 3,
+    "Document_Object_Model": 1,
+    "unknown_api": 1,
+    "HTMLElement": 1,
+    "Credential_Management_API": 1
+}

@@ -1,0 +1,18 @@
+{
+    "HTMLElement": 2,
+    "Web_Audio_API": 1,
+    "Web_Bluetooth_API": 1,
+    "CSS_Object_Model": 3,
+    "Sensors": 6,
+    "Geolocation_API": 1,
+    "WebGL_API": 1,
+    "Web_Crypto_API": 1,
+    "Stream": 5,
+    "Payment_Request_API": 2,
+    "unknown_api": 1,
+    "File_and_Directory_Entries_API": 2,
+    "Page_Visibility_API": 1,
+    "Presentation_API": 1,
+    "ms": 1,
+    "Background_Tasks_API": 1
+}

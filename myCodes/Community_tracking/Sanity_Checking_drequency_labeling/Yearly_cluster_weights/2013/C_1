@@ -1,0 +1,11 @@
+{
+    "Sensors": 2,
+    "Gamepad_API": 1,
+    "HTMLElement": 1,
+    "ms": 1,
+    "Web_Bluetooth_API": 1,
+    "Payment_Request_API": 1,
+    "WebRTC": 1,
+    "Web_Audio_API": 1,
+    "File_and_Directory_Entries_API": 1
+}

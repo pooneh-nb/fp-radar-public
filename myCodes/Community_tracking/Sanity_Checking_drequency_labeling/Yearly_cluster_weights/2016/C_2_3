@@ -1,0 +1,23 @@
+{
+    "Document_Object_Model": 10,
+    "HTMLElement": 3,
+    "Navigator": 1,
+    "CSS_Object_Model": 1,
+    "WebVTT_API": 1,
+    "WebRTC_API": 2,
+    "Mouse": 13,
+    "Keyboard": 2,
+    "DOMInteraction": 3,
+    "Touch_events": 1,
+    "XMLHttpRequest": 2,
+    "Payment_Request_API": 3,
+    "Service_Worker_API": 1,
+    "ms": 2,
+    "EventsListeners": 5,
+    "File_and_Directory_Entries_API": 3,
+    "ElementInternals": 1,
+    "Media_Capabilities_API": 1,
+    "WebGL_API": 1,
+    "Web_Crypto_API": 1,
+    "IndexedDB_API": 1
+}

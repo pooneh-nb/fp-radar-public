@@ -1,0 +1,17 @@
+{
+    "XMLHttpRequest": 1,
+    "Intersection_Observer_API": 1,
+    "Payment_Request_API": 3,
+    "Document_Object_Model": 4,
+    "Credential_Management_API": 1,
+    "USB": 1,
+    "Sensors": 1,
+    "Web_Audio_API": 1,
+    "HTMLElement": 2,
+    "CSS_Object_Model": 2,
+    "URL_API": 1,
+    "Gamepad_API": 1,
+    "MediaStream_Image_Capture_API": 1,
+    "ms": 1,
+    "IndexedDB_API": 1
+}

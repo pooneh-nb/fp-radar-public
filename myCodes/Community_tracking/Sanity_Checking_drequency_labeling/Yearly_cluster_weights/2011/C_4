@@ -1,0 +1,16 @@
+{
+    "CSS_Object_Model": 3,
+    "unknown_api": 1,
+    "WebVTT_API": 2,
+    "HTMLElement": 4,
+    "IndexedDB_API": 2,
+    "Navigator": 1,
+    "Web_Audio_API": 1,
+    "Document_Object_Model": 4,
+    "WebRTC_API": 1,
+    "Media_Source_Extensions_API": 1,
+    "Payment_Request_API": 2,
+    "Payment": 1,
+    "Keyboard": 1,
+    "EventsListeners": 2
+}

@@ -1,0 +1,17 @@
+{
+    "WebRTC_API": 1,
+    "EventsListeners": 2,
+    "HTMLElement": 6,
+    "URL_API": 4,
+    "Web_Bluetooth_API": 2,
+    "Channel_Messaging_API": 4,
+    "Web_Workers_API": 1,
+    "Web_Audio_API": 1,
+    "IndexedDB_API": 3,
+    "WebVTT_API": 1,
+    "Keyboard": 1,
+    "CSS_Object_Model": 2,
+    "WebRTC": 1,
+    "unknown_api": 1,
+    "ms": 1
+}
